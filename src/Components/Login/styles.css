@@ -1,0 +1,9 @@
+.wraper-login {
+  height: 100vh;
+  display: grid;
+}
+
+.bg-login {
+  background: rgb(251, 251, 251);
+  background: radial-gradient(circle, rgba(251, 251, 251, 1) 0%, rgba(255, 191, 54, 1) 100%);
+}
