@@ -12,6 +12,9 @@ export const Home = () => {
     <div>
       Home
       <button onClick={handleLogin}>Login</button>
+
+      <button onClick={handleLogin}>Login</button>
+      <button onClick={handleLogin}>Login</button>
       <span>CAMBIOS</span>
     </div>
   )
